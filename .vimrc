@@ -1,0 +1,12 @@
+set number
+syntax on
+set tabstop=2
+set autoindent
+set expandtab
+set softtabstop=4
+set autoindent
+set wildmenu
+set list
+set lcs+=trail:·
+set lcs=tab:»·
+set rtp+=/usr/local/opt/fzf 
